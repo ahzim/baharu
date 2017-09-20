@@ -1,0 +1,13 @@
+<html>
+
+<body>
+
+<title> PHP tutorial </titile>
+
+<?php
+
+	$var1 = array ("leman","wani","rina");
+	echo $var1 ;
+	</body>
+
+	</html>

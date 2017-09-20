@@ -1,0 +1,17 @@
+<html>
+<body>
+
+<?php
+	
+	
+	$kete=array("AE86","subaru","shinigami GTR");
+
+	
+	echo "<br>";
+	echo "<br>";
+	echo "kete fav aku dr initial d ialah {$kete[0]}";
+
+	?>
+
+	</body>
+	</html>
